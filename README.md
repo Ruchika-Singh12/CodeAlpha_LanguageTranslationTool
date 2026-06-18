@@ -22,5 +22,6 @@ python -m streamlit run app.py
 
 ## Developer
 Ruchika Singh
-CodeAlpha AI Internship# CodeAlpha_LanguageTranslationTool
+@CodeAlpha AI Internship 
+#CodeAlpha_LanguageTranslationTool
 AI Language Translation Tool using Python, Streamlit and Deep Translator
