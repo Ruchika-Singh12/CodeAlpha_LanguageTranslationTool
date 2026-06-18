@@ -1,7 +1,7 @@
 import streamlit as st
 from deep_translator import GoogleTranslator
 
-# Page Config
+
 st.set_page_config(
     page_title="AI Language Translation Tool",
     page_icon="🌍",
